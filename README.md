@@ -25,4 +25,3 @@ A website that will help students make career decisions based on their careeer i
   
 
   
-, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
